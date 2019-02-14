@@ -4,7 +4,7 @@
     {
         public RankedGradeBook(string name) : base(name)
         {
-            Type = Enums.GradebookType.Ranked;
+            Type = Enums.GradeBookType.Ranked;
         }
     }
 }
